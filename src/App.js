@@ -1,5 +1,5 @@
-
-import Expenses from "./componets/Expenses";
+import React from 'react';
+import Expenses from "./componets/Expenses/Expenses";
 
 function App() {
 
