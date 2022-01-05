@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <h2>Let's get started!</h2>
-      <div className="expenses">
+      <div>
         <Expenses expenses={ expenses } />
       </div>
     </div>
